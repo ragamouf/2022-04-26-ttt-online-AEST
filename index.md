@@ -259,7 +259,7 @@ for more information.
       <tr> <td>14:00</td> <td>Break </td> </tr>
       <tr> <td>14:30</td> <td>Teaching Is a Skill </td> </tr>
       <tr> <td>15:30</td> <td>Wrap-up and Homework </td> </tr>
-      <tr> <td>15:40</td> <td>Finish Day 2</td> </tr>
+      <tr> <td>15:50</td> <td>Finish Day 2</td> </tr>
     </table>
   </div>
   <div class="col-md-6">
@@ -285,7 +285,7 @@ for more information.
       <tr> <td>15:10</td> <td>Putting it Together </td> </tr>
       <tr> <td>15:30</td> <td>Wrapping Up </td> </tr>
       <tr> <td>15:40</td> <td>Post-Training Survey </td> </tr>
-      <tr> <td>15:55</td> <td>Finish </td> </tr>
+      <tr> <td>16:00</td> <td>Finish </td> </tr>
     </table>
   </div>
 </div>
